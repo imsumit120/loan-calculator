@@ -1,7 +1,7 @@
 
 LOAN CALCULATOR
 
-Live:https://fervent-leakey-2eb549.netlify.com/
+Live:loan-calculator-in.netlify.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
